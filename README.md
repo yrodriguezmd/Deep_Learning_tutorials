@@ -1,7 +1,7 @@
 # Deep_Learning_tutorials
 Informative notebooks related to deep learning concepts
 
-(Blog publication submitted to Weights and Biases, awaiting release, updated Nov.30, 2021)
+(Blog publication submitted to Weights and Biases, awaiting release, updated Nov.30, 2021): https://wandb.ai/maria_rodriguez
 
 ### Advice:
 
